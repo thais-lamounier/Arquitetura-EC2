@@ -43,7 +43,7 @@ ssh -i minha-chave.pem ec2-user@IP_PUBLICO
 2. O Security Group é configurado para permitir tráfego TCP/3389 apenas do IP do usuário.
 3. A senha do usuário Administrator é gerada pela AWS e criptografada com a chave pública.
 4. Para recuperar a senha:
-- No console AWS: Get Windows Password e insira a chave privada (.pem).
+ - No console AWS: Get Windows Password e insira a chave privada (.pem).
 5. O usuário conecta via RDP:
   IP_PUBLICO:3389
 Usuário: Administrator
