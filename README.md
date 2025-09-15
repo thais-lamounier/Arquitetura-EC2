@@ -17,7 +17,7 @@ Este projeto descreve como funciona o acesso a servidores Linux e Windows em uma
 
 ### Arquitetura (Diagrama)
 
-![EC2](images/Diagrama-EC2.jpg)
+![Arquitetura-EC2](images/Diagrama-EC2.jpg)
 
 ---
 
